@@ -1,9 +1,9 @@
 ---
-title: "Hochwertige AGROFLOR Vogelschutznetze"
-description: "Zum Schutz Ihrer Früchte, robust, individuelle Grössen, langlebig, direkt vom Hersteller"
-featured_image: "/images/Weinberg.jpg"
+title: "Hochwertige AGROFLOR Laubschutznetze"
+description: "Zum Schutz Ihres Pools oder Teiches, leicht, langlebig, witterungsbeständig, direkt vom Hersteller"
+featured_image: "/images/314 Teichschutz_04.jpg"
 ---
-Schützen Sie Ihre Früchte zuverlässig mit hochwertigen Vogelschutznetzen direkt vom Hersteller. Unsere robusten und langlebigen Netze schützen Kirschen, Beeren, Wein und andere Kulturen effektiv vor Vogelfraß.
+Schützen Sie Ihren Pool oder Teich zuverlässig vor herabfallendem Laub mit hochwertigen AGROFLOR Laubschutznetzen.
 
-Dank verschiedener Maschenweiten und zahlreicher lagernder Größen bieten wir für jede Kultur die passende Lösung – gerne auch individuell auf Anfrage.
+Unsere robusten und dennoch extrem leichten Netze verhindern das Absinken von Laub auf den Beckenboden und reduzieren effektiv Verfärbungen sowie Algen- und Schlammbildung.
 

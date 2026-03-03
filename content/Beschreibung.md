@@ -1,24 +1,29 @@
 ---
-featured_image: "/images/302 Netz.JPG"
-alt: "Vogelschutznetz in blau, hängend vor Beerenstrauch"
+featured_image: "/images/314 Teichschutz_01.jpg"
+alt: "Laub- und Teichschutznetz hängend über einem Teich mit Wasser"
 weight: 1
 read_more_copy: "Lesen Sie mehr auf unserer Website"
-link: "https://agro-flor.com/vogelschutznetz.html"
+link: "https://agro-flor.com/laubschutznetze.html"
 
 ---
-# Vogelschutznetze
+<style>
+  table { border-collapse: collapse; width: 100%; margin-top: 20px; }
+  th, td { border: 1px solid #cccccc; padding: 10px; text-align: left; }
+  th { background-color: #f2f2f2; }
+</style>
+# Laubschutznetze
 
-- Vogelschutznetze für Kirschen, Beeren, Trauben, Ernte
-- Vogelschutznetze für Hühnerauslauf, Schutz gegen Greifvögel, Einhalten der Stallpflicht
-- Vogelschutznetze als Teichschutznetz
+- Laubschutznetze für Pools und Teiche
+
+- Optimal für beheizte Becken im Herbst
+-  Verhindert Verfärbungen des Poolbodens sowie Algen- und Schlammbildung
 
 
 
-| **Artikel**      | 1.301             | 1.302                   | 1.303                       |
-| :--------------- | :---------------- | :---------------------- | :-------------------------- |
-| **Maschenweite** | 20 x 20 mm        | 25 x 25 mm              | 30 x 30 mm                  |
-| **Gewicht**      | 34 g/m²           | 27 g/m²                 | 23 g/m²                     |
-| **Breite(n)**    | 4 / 8 / 12 / 16 m | 4 / 8 / 12 / 16 / 20 m  | 4 / 8 / 12 / 16 / 20 / 24 m |
-| **Länge(n)**     | 200 m             | 200 m                   | 200 m                       |
-| **Farbe(n)**     | grün              | grün (blau auf Anfrage) | grün / blau                 |
-
+| **Artikel**      | 216.7    | 307.7    | 300        |
+| :--------------- | :------- | :------- | :--------- |
+| **Maschenweite** | 5 x 5 mm | 3 x 8 mm | 12 x 12 mm |
+| **Gewicht**      | 107 g/m² | 44 g/m²  | 51 g/m²    |
+| **Breite(n)**    | 3 m      | 3 m      | 5 / 10 m   |
+| **Länge(n)**     | 100 m    | 100 m    | 100 m      |
+| **Farbe(n)**     | schwarz  | schwarz  | grün       |

@@ -1,12 +1,10 @@
 ---
 weight: 4
-featured_image: "/images/Vogelschutz Baum.jpg"
-alt: "grünes Vogelschutznetz auf Bäumen"
+featured_image: "/images/Teichschutznetz_01.JPG"
+alt: "schwarzes Laubschutznetz/Teichschutznetz hängend über einem Teich in einem Garten"
 read_more_copy: "Zu unserem Onlineshop"
 link: "https://agroflor.shop/"
 ---
-
-
 
 Kaufen Sie  direkt in unserem Onlineshop: https://agroflor.shop/
 
