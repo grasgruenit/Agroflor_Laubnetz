@@ -5,7 +5,7 @@ weight: 3
 read_more_copy:
 ---
 
-**Eigenschaften Laubschutznetz**
+**Eigenschaften Laub- und Teichschutznetz**
 
 - Schutzfaktor 100 % bei korrekter Befestigung
 - extrem leicht

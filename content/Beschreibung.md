@@ -11,7 +11,7 @@ link: "https://agro-flor.com/laubschutznetze.html"
   th, td { border: 1px solid #cccccc; padding: 10px; text-align: left; }
   th { background-color: #f2f2f2; }
 </style>
-# Laubschutznetze
+# Laub- und Teichschutznetze
 
 - Laubschutznetze für Pools und Teiche
 
